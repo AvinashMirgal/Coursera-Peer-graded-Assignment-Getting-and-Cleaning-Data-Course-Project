@@ -166,3 +166,5 @@ View(first_data_set)
 ##Second tidy data set
 View(second_data_set)
 
+# Export TidyDataSet
+write.table(first_data_set, './TidyDataSet.txt',sep='\t', row.names = FALSE)
