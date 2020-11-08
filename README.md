@@ -16,13 +16,13 @@
   - Load training data Extract only the measurements on the mean and standard deviation for each measurement Appropriately label the data set with descriptive variable names
   - Load testing data
   - Extract only the measurements on the mean and standard deviation for each measurement Appropriately label the data set with descriptive variable names
-  - Merge the training and the test sets to create one tidy data set: mydata Use descriptive activity names to name the activities in the data set
-  - Create a second, independent tidy data set with the average of each variable for each activity and each subject: mydata2
+  - Merge the training and the test sets to create one tidy data set: fisrt_data_set Use descriptive activity names to name the activities in the data set
+  - Create a second, independent tidy data set with the average of each variable for each activity and each subject: second_data_set
   - Take averages for each activity
   - Take averages for each subject
   - Merge the two sets of averages Make Feature a labelled column rather than row names in accordance with tidy data theory
-  - View the first tidy data set: mydata
-  - View the second tidy data set: mydata2
+  - View the first tidy data set: fisrt_data_set
+  - View the second tidy data set: second_data_set
 ## Part 2: Coursera instructions for completing the course project
 ### The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
